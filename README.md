@@ -5,3 +5,4 @@ This website was built on Quartz v4!
 
 * sync: `npx quartz sync`
 * preview locally: `npx quartz build --serve`
+* can I use this one the phone?
