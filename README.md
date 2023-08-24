@@ -8,3 +8,4 @@ This website was built on Quartz v4!
 * how to use obsidian mobile
 	* download
 	* generate a personal auth token (from setting/dev op/fine-grained pat)
+	* then, there you go! password doesn't work here!
