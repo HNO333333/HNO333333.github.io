@@ -14,3 +14,5 @@ I hope this beautiful theme can help me produce more interesting blogs here. And
 * review of books/TV series/movies 👉 [[Reviews/index|Reviews]] (especially after watching them at the midnight 🙃 )
 
 Yeah, hope you like my blog!
+
+maybe you can check this out: [[暂时性]]
