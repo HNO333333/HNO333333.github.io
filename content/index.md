@@ -10,8 +10,8 @@ Hi there! Welcome to my island :) (check [this MV](https://www.youtube.com/watch
 
 I hope this beautiful theme can help me produce more interesting blogs here. And at this very beginning, let me list some things I want to put here (so that I may realize these predictions!)
 
-* notes when I learn something
-* thoughts?
-* review of books/TV series/movies (especially after watching them at the midnight :( )
+* notes when I learn something [[Notes/index|index]]
+* thoughts? [[Thoughts/index|index]]
+* review of books/TV series/movies [[Reviews/index|index]] (especially after watching them at the midnight :( )
 
 Yeah, hope you like my blog!
