@@ -22,7 +22,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.RecentNotes({title: "Latest",
-                           limit: 3})
+                           limit: 3,
+                           sort: (f1, f2) =>
+                                      (f2.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER) -
+                                      (f1.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER),})
   ],
   right: [Component.Graph(), Component.Backlinks()],
 }
