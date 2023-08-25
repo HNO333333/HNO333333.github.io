@@ -1,6 +1,6 @@
 ---
 title: Welcome to HNO3's digital garden!
-tags:
+date: 2023-08-24
 ---
 
 
