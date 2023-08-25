@@ -1,6 +1,6 @@
 ---
 title: 🎦Reviews
-noindex: false
+isindex: true
 ---
 
 吃下这口安利！

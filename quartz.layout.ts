@@ -26,7 +26,9 @@ export const defaultContentPageLayout: PageLayout = {
                                                 sort: (f1, f2) =>
                                                           (f2.dates?.published.getTime() ?? Number.MAX_SAFE_INTEGER) -
                                                           (f1.dates?.published.getTime() ?? Number.MAX_SAFE_INTEGER),
-                                                filter: (f) => f.frontmatter?.noindex})),],
+                                                filter: (f) => !f.frontmatter?.isindex})),     
+        ],
+    
   right: [Component.Graph(), Component.Backlinks()],
 }
 
