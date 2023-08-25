@@ -13,6 +13,7 @@ I hope this beautiful theme can help me produce more interesting blogs here. And
 * notes when I learn something 👉 [[Notes/index|Notes]]
 * thoughts? 👉 [[Thoughts/index|Thoughts]]
 * review of books/TV series/movies 👉 [[Reviews/index|Reviews]] (especially after watching them at the midnight 🙃 )
+* 🎧collection of lyrics 👉🏻[[content/Lyrics/index|Lyrics]]
 
 Yeah, hope you like my blog!
 
