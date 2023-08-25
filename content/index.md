@@ -2,6 +2,7 @@
 title: Welcome to HNO3's digital garden!
 date: 2023-08-24
 isindex: true
+noindex: false
 ---
 
 
