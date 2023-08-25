@@ -3,6 +3,7 @@ title: Use Obsidian & Typora
 draft: false
 tags:
   - note-taking
+date: 2023-08-23
 ---
  
 其实Typora很早就开始用了, 也结结实实地踩过所有用Typora的坑:(
