@@ -9,4 +9,4 @@ This website was built on Quartz v4!
 	* download
 	* generate a personal auth token (from setting/dev op/fine-grained pat)
 	* then, there you go! password doesn't work here! (however, the private authentification token will expire at some point so you may need to update it regularly?)
-* visit my website: [HNO3’s digital garden](HNO333333.github.io)
+* visit my website: [digital garden](HNO333333.github.io)
