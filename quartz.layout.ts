@@ -24,8 +24,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.RecentNotes({title: "Latest",
                                                 limit: 3,
                                                 sort: (f1, f2) =>
-                                                          (f2.dates?.published.getTime() ?? Number.MAX_SAFE_INTEGER) -
-                                                          (f1.dates?.published.getTime() ?? Number.MAX_SAFE_INTEGER),
+                                                          (f2.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER) -
+                                                          (f1.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER),
                                                 filter: (f) => !f.frontmatter?.isindex})),     
         ],
     

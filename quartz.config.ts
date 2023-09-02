@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "HNO333333.github.io/HNO333333.github.io",
     ignorePatterns: ["private", "templates"],
-    defaultDateType: "published",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",

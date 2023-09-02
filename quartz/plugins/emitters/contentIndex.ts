@@ -74,7 +74,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const linkIndex: ContentIndex = new Map()
       for (const [_tree, file] of content) {
         const slug = file.data.slug!
-        const date = file.data.dates?.modified ?? new Date()
+        const date = file.data.dates?.created ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
             title: file.data.frontmatter?.title!,
