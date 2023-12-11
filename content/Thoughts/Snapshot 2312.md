@@ -1,8 +1,8 @@
 ---
-title: Example Title
+title: Snapshot for Dec. 2023
 draft: false
 date: 2023-12-11
 tags:
   - life
 ---
-To write here...
+今晚来写！

@@ -1,44 +1,35 @@
 {
   "main": {
-    "id": "4acc6d2212f021eb",
+    "id": "70a1859993b02eb0",
     "type": "split",
     "children": [
       {
-        "id": "5edad31122334c63",
+        "id": "0b3613da231e08c0",
         "type": "tabs",
         "children": [
           {
-            "id": "69fa54ed8404e086",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7cef1a8e405afc9d",
+            "id": "b9eb92c5ad536433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/Thoughts/Snapshot 2312.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3dc89ec6e7de5476",
+    "id": "e6a9cd0f8257fe07",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "80a29cf27e2e7537",
+        "id": "2b8717ac6352bac3",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -48,7 +39,7 @@
         }
       },
       {
-        "id": "29cbaa99b1978d7c",
+        "id": "cc8d3208fe5f1282",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +54,7 @@
         }
       },
       {
-        "id": "b37c9903e1dd95b9",
+        "id": "2d1f5eff34ff072e",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,27 +65,37 @@
         }
       },
       {
-        "id": "5df0793ef18f0a62",
+        "id": "c5891d33f46324de",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
+        }
+      },
+      {
+        "id": "59423a2b3c540bb5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "a882e388cf69162f",
+    "id": "77ad4b38b7db25f7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "41ddbbf77c16d5e8",
+        "id": "80ce043421430a81",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "content/Thoughts/Snapshot 2312.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,52 +107,71 @@
         }
       },
       {
-        "id": "d50096157c0c87b8",
+        "id": "d417eed02f49d476",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "content/Thoughts/Snapshot 2312.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "56f400364b1243dc",
+        "id": "8c3645297e96af03",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "content/Thoughts/Snapshot 2312.md"
           }
-        }
-      },
-      {
-        "id": "67c43d9dd79ba62c",
-        "type": "leaf",
-        "state": {
-          "type": "git-history-view",
-          "state": {}
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "cmdr:Obsidian Git: Pull": false,
+      "cmdr:Commander: sync with message": false,
+      "cmdr:QuickAdd: add property": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "7cef1a8e405afc9d",
+  "active": "b9eb92c5ad536433",
   "lastOpenFiles": [
+    "content/Thoughts/Snapshot 2312.md",
+    "/content/Thoughts/Snapshot 2312.md",
+    "package.json",
+    "quartz",
+    "quartz/util/trace.ts",
+    "quartz/util/log.ts",
+    "quartz/util",
+    "quartz/util/theme.ts",
+    "quartz/styles",
+    "quartz/plugins/index.ts",
+    "quartz/plugins",
+    "quartz.layout.ts",
     "CODE_OF_CONDUCT.md",
+    "quartz/static/icon_quartz.png",
+    "quartz/static/icon.png",
+    "content/Lyrics/2309.md",
+    "content/Lyrics/2308.md",
+    "content/Reviews/index.md",
+    "content/Notes/index.md",
+    "content/template/template.md",
+    "content/images/dns records.png",
+    "content/images/quartz layout.png",
+    "content/Lyrics/index.md",
+    "content/Thoughts/Snapshot 2308.md",
+    "quartz/static/og-image.png",
+    "content/index.md",
+    "content/Thoughts/暂时性.md",
+    "content/images/quartz transform pipeline.png",
     "README.md",
-    "This is a test.md"
+    "content/Thoughts/index.md"
   ]
 }
