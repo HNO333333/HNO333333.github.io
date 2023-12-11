@@ -5,3 +5,4 @@ prof
 tsconfig.tsbuildinfo
 .quartz-cache
 private/
+content/template
