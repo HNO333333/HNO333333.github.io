@@ -1,26 +1,20 @@
 {
-  "mobileToolbarCommands": [
-    "editor:insert-wikilink",
-    "editor:insert-embed",
-    "editor:insert-tag",
-    "editor:attach-file",
-    "editor:set-heading",
-    "editor:toggle-bold",
-    "editor:toggle-italics",
-    "editor:toggle-strikethrough",
-    "editor:toggle-highlight",
-    "editor:toggle-code",
-    "editor:toggle-blockquote",
-    "editor:insert-link",
-    "editor:toggle-bullet-list",
-    "editor:toggle-numbered-list",
-    "editor:toggle-checklist-status",
-    "editor:indent-list",
-    "editor:unindent-list",
-    "editor:undo",
-    "editor:redo",
-    "editor:toggle-keyboard",
-    "editor:configure-toolbar",
-    "obsidian-git:view-file-on-github"
-  ]
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "imgs",
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "propertiesInDocument": "visible"
 }
