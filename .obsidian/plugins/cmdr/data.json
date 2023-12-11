@@ -1,0 +1,86 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-down-circle",
+      "name": "Obsidian Git: Pull",
+      "mode": "any",
+      "color": "#ffca57"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "upload-cloud",
+      "name": "Commander: sync with message",
+      "mode": "any",
+      "color": "#61f56b"
+    },
+    {
+      "id": "quickadd:choice:b93f242a-6514-455b-a4bc-bbcc3d58e49a",
+      "icon": "list-plus",
+      "name": "QuickAdd: add property",
+      "mode": "any",
+      "color": "#8fbfff"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-git:commit-specified-message"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-git:push2"
+        }
+      ],
+      "name": "sync with message",
+      "icon": "star",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-git:pull"
+        }
+      ],
+      "name": "auto pull",
+      "icon": "star",
+      "startup": true
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open graph view",
+      "Open command palette"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
